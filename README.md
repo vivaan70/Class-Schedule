@@ -60,7 +60,7 @@
             <td>...</td>
         </tr>
         <tr>
-            <td colspan="6">Break Break Break Break</td>
+            <td colspan="6">Break Break Break Break Break Break Break Break</td>
         </tr>
         <tr>
             <td>10:45-11:35</td>
