@@ -60,7 +60,7 @@
             <td>...</td>
         </tr>
         <tr>
-            <td rowspan="3">Break</td>
+            <td rowspan="2">Break</td>
         </tr>
         <tr>
             <td>...</td>
