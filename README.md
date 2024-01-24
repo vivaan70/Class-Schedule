@@ -63,20 +63,6 @@ z<!DOCTYPE html>
             <td>Break</td>
         </tr>
         <tr>
-            <td>...</td>
-            <td>...</td>
-            <td>...</td>
-            <td>...</td>
-            <td>...</td>
-        </tr>
-        <tr>
-            <td>...</td>
-            <td>...</td>
-            <td>...</td>
-            <td>...</td>
-            <td>...</td>
-        </tr>
-        <tr>
             <td>10:45-11:35</td>
             <td>Economics: Mrs. Phina</td>
             <td>...</td>
