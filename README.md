@@ -11,7 +11,7 @@
         }
 
         th, td {
-            border: 1px solid #ddd;
+            border: 2px solid black; /* thicker black border */
             padding: 8px;
             text-align: left;
         }
@@ -60,7 +60,7 @@
             <td>...</td>
         </tr>
         <tr>
-            <td colspan="6">Break     Break     Break      Break      Break      Break      Break      Break      Break      Break Break Break Break Break Break Break Break Break Break Break</td>
+            <td colspan="6">Break Break Break Break</td>
         </tr>
         <tr>
             <td>10:45-11:35</td>
