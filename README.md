@@ -60,7 +60,7 @@ z<!DOCTYPE html>
             <td>...</td>
         </tr>
         <tr>
-            <td rowspan="3">Break</td>
+            <td>Break</td>
         </tr>
         <tr>
             <td>...</td>
