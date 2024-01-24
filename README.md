@@ -60,14 +60,7 @@
             <td>...</td>
         </tr>
         <tr>
-            <td rowspan="2">Break</td>
-        </tr>
-        <tr>
-            <td>...</td>
-            <td>...</td>
-            <td>...</td>
-            <td>...</td>
-            <td>...</td>
+            <td rowspan="3">Break</td>
         </tr>
         <tr>
             <td>...</td>
