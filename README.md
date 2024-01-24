@@ -61,7 +61,6 @@
         </tr>
         <tr>
             <td rowspan="3">Break</td>
-            <td colspan="5">Break</td>
         </tr>
         <tr>
             <td>...</td>
